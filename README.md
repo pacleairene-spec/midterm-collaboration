@@ -46,3 +46,4 @@ The **Inventory System** is a simple web-based application developed using the *
 
 - View all inventory records in the dashboard.
 
+## Screenshots or Code Snippets
