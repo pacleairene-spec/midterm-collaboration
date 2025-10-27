@@ -130,3 +130,9 @@ The **Inventory System** is a simple web-based application developed using the *
     </table>
 </div>
 @endsection
+
+## Contributors
+Developed by: Irene P. Sobredo
+
+## License
+This project is open-source and you may freely use and modify it for educational purposes.
